@@ -22,7 +22,7 @@ const App = () => {
       setTask(copyTask)
 
 
-  }
+  } 
   return (
     <div className='h-screen lg:flex bg-black text-white'>
      
